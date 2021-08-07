@@ -24,4 +24,7 @@ It is a popular method because it is simple to understand and because it general
 (ii)Take the remaining groups as a training data set <br>
 (iii)Fit a model on the training set and evaluate it on the test set<br>
 (iv)Retain the evaluation score and discard the model<br>
-4. Summarize the skill of the model using the sample of model evaluation scores
+4. Summarize the skill of the model using the sample of model evaluation scores <br>
+
+## Task <br>
+Task is to create a model to implement OCR and plot confusion matrix for all classes.
